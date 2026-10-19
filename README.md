@@ -8,7 +8,7 @@ A collection of hands-on data science and machine learning projects from the **A
 
 | # | Project Name | Primary Focus & Research Question | Key Tools & Topics | Status |
 |---|---|---|---|---|
-| **01** | [Mexican Real Estate Market](./Hands-on%20Data%20Science%20in%20the%20Mexican%20Real%20Estate%20Market/) | *Are property prices in Mexico more influenced by size or location?* | EDA, Tidy Data, Correlation, Simpson's Paradox, Feature Engineering (`pandas`, `seaborn`) | 🟡 In Progress (Lessons 1.1–1.3 done) |
+| **01** | [Mexican Real Estate Market](./Hands-on%20Data%20Science%20in%20the%20Mexican%20Real%20Estate%20Market/) | *Are property prices in Mexico more influenced by size or location?* | EDA, Tidy Data, Correlation, Simpson's Paradox, Feature Engineering (`pandas`, `seaborn`) | 🟢 Completed (Lessons 1.1–1.4) |
 
 > 🔍 **Deep Dive**: For full methodology, lesson walkthroughs, and key findings for Project 01, see the [Mexican Real Estate Project README](./Hands-on%20Data%20Science%20in%20the%20Mexican%20Real%20Estate%20Market/README.md).
 
