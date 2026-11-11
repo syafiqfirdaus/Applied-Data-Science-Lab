@@ -1,4 +1,4 @@
-# Data Science Lab
+# Applied Data Science Lab
 
 A collection of hands-on data science and machine learning projects from the **Applied Data Science Lab** by **[WorldQuant University (WQU)](https://www.wqu.edu/)**.
 
@@ -6,11 +6,11 @@ A collection of hands-on data science and machine learning projects from the **A
 
 ## 📚 Projects Overview
 
-| # | Project Name | Primary Focus & Research Question | Key Tools & Topics | Status |
-|---|---|---|---|---|
-| **01** | [Mexican Real Estate Market](./Hands-on%20Data%20Science%20in%20the%20Mexican%20Real%20Estate%20Market/) | *Are property prices in Mexico more influenced by size or location?* | EDA, Tidy Data, Correlation, Simpson's Paradox, Feature Engineering (`pandas`, `seaborn`) | 🟢 Completed (Lessons 1.1–1.4) |
+| #            | Project Name                                                                                              | Primary Focus & Research Question                                      | Key Tools & Topics                                                                            | Status                          |
+| ------------ | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------- |
+| **01** | [Mexican Real Estate Market](<./Hands-on%20Data%20Science%20in%20the%20Mexican%20Real%20Estate%20Market/>) | *Are property prices in Mexico more influenced by size or location?* | EDA, Tidy Data, Correlation, Simpson's Paradox, Feature Engineering (`pandas`, `seaborn`) | 🟢 Completed (Lessons 1.1–1.4) |
 
-> 🔍 **Deep Dive**: For full methodology, lesson walkthroughs, and key findings for Project 01, see the [Mexican Real Estate Project README](./Hands-on%20Data%20Science%20in%20the%20Mexican%20Real%20Estate%20Market/README.md).
+> 🔍 **Deep Dive**: For full methodology, lesson walkthroughs, and key findings for Project 01, see the [Mexican Real Estate Project README](<./Hands-on%20Data%20Science%20in%20the%20Mexican%20Real%20Estate%20Market/README.md>).
 
 ---
 
